@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-**Rafael Eustaquio Pinto | Raphael Henrique | Bernardo Alvim**
-
+<p align="center" style="font-size: 30px"><strong>Rafael Eustaquio Pinto | Raphael Henrique | Bernardo Alvim</strong></p>
 
 # <img src="https://hub.meltano.com/assets/static/tmdb.1339262.ba8654571060cac8ca984f640440c1ed.png" height="25">  <b>The Movie Database</b>
 
