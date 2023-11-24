@@ -126,4 +126,4 @@ As três funções acima utilizam AJAX para fazer requisições à API para obte
 
 ##
 
-[🔝 Voltar ao Topo](#TheMovieDB)
+[🔝 Voltar ao Topo](#--the-movie-database)
